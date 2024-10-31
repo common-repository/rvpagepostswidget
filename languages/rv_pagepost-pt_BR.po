@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richard <richard.venancio@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Use this widget to show a specific page, a unique post or posts of categories"
+msgstr "Use esse widget para exbir uma página, um artigo ou vários artigos de categorias"
+
+msgid "PagePosts widget"
+msgstr ""
+
+msgid "Title:"
+msgstr "T&iacute;tulo:"
+
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+msgid "Select a page"
+msgstr "Selecione uma p&aacute;gina"
+
+msgid "Posts of:"
+msgstr "Artigos de:"
+
+msgid "No category"
+msgstr "Nenhuma categoria"
+
+msgid "Press ctrl to select more than one."
+msgstr "Precione ctrl para selecionar mais de uma."
+
+msgid "Qtd of posts:"
+msgstr "Qtd de artigos:"
+
+msgid "Show category's link:"
+msgstr "Mostrar o link das categorias:"
+
+msgid "Post:"
+msgstr "Artigos:"
+
+msgid "Post's ID, separeted by commas."
+msgstr "Separe o c&oacute;digo dos artigos por v&iacute;rgula."
+
+msgid "Show post title:"
+msgstr "Exibir o t&iacute;tulo do artigo:"
+
+msgid "read more"
+msgstr "leia mais"
+
+msgid "Priority"
+msgstr "Prioridade"
+
+msgid "More"
+msgstr "Mais"
+
